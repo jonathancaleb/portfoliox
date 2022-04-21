@@ -101,6 +101,13 @@ body{
    font-family: "Montserrat";
    font-weight: 300;
  }
+ .image{
+   max-width: 100%;
+   height:auto;
+   image-rendering: auto;
+   image-rendering: crisp-edges;
+   
+ }
 
  
  @media only screen and (max-width : 764px){
